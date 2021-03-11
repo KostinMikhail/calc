@@ -35,6 +35,7 @@ public class calc {
         }
         if(symbol.equals("/")){
             result = num / num2;
+
         }
         System.out.printf("получилось %d", result);
     }
