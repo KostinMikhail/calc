@@ -18,7 +18,7 @@ public class calc {
 
         in.close();
         if(num2 == 0 && symbol.equals("/")){
-            System.out.println("на ноль не делят, ебать");
+            System.out.println("на ноль не делят");
             return;
         }
         int result = 0;
